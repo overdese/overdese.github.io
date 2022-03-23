@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WorkDimko: DevOps инженер | Системный админинстратор</title>
+    <link>https://workdimko.ru/</link>
+    <description>Recent content on WorkDimko: DevOps инженер | Системный админинстратор</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language><atom:link href="https://workdimko.ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обо мне</title>
+      <link>https://workdimko.ru/about/</link>
+      <pubDate>Wed, 23 Mar 2022 13:14:58 +0300</pubDate>
+      
+      <guid>https://workdimko.ru/about/</guid>
+      <description>Всем привет!
+Я занимаюсь системным администрированием уже более 15 лет. Применяю в своей практике подход Infrastructure as Code и методологию DevOps. Люблю изучать и внедрять новые технологии.
+Основной стек технологий     операционные системы  Linux (Debian family, RHEL) Microsoft Windows Server   языки программирования  Python Bash Powershell   Routing, Switching, Firewalls другое  GitLab CI/CD, GitHub Actions Docker, Docker Compose, Kubernetes, Helm Ansible, Terraform Git, Bitbucket, GitHub nginx, HAProxy, uWSGI, Gunicorn, PHP-FPM GlusterFS, Patroni PostgreSQL, MySQL, MongoDB, Microsoft SQL Server развёртывание приложений, разработанных на Node.</description>
+    </item>
+    
+  </channel>
+</rss>
